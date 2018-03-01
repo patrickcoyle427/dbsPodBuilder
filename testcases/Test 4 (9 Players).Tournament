@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tournament>
+	<Name>testing file 1</Name>
+	<ID>X99-675076</ID>
+	<TournamentStyleCode>01</TournamentStyleCode>
+	<StructureCode>01</StructureCode>
+	<EventTypeCode>01</EventTypeCode>
+	<PlayerStructure>01</PlayerStructure>
+	<ReferenceDateTime>2003-01-02</ReferenceDateTime>
+	<Date>2018-02-17</Date>
+	<Time>19:35</Time>
+	<CurrentRound>0</CurrentRound>
+	<TableOffset>0</TableOffset>
+	<PlayoffRound>0</PlayoffRound>
+	<SoftwareVersion>3.0.0.0</SoftwareVersion>
+	<Finalized>False</Finalized>
+	<Staff>
+		<XmlStaffArray />
+	</Staff>
+	<PenaltyList />
+	<Location>
+		<Id>1f08036e-c77c-42a8-b6b5-362814e6bb5c</Id>
+		<Name>Alternate Universes Blue Bell</Name>
+		<Address1 />
+		<Address2 />
+		<City />
+		<State />
+		<Country />
+		<Zip />
+		<Phone />
+		<WebSite />
+	</Location>
+	<TournamentPlayers>
+		<TournPlayer>
+			<Player>
+				<ID>0100452306</ID>
+				<FirstName>Pat</FirstName>
+				<LastName>Coyle</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0100532395</ID>
+				<FirstName>Jimmy</FirstName>
+				<LastName>Sprinkles</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0100993697</ID>
+				<FirstName>Michael A.</FirstName>
+				<LastName>Coyle</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0100998094</ID>
+				<FirstName>Osiris</FirstName>
+				<LastName>Dipp</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0101927207</ID>
+				<FirstName>HB</FirstName>
+				<LastName>Johnson</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0102262629</ID>
+				<FirstName>Made Up</FirstName>
+				<LastName>Name</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0400128375</ID>
+				<FirstName>Jeffery</FirstName>
+				<LastName>Fakeman</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>9999000005</ID>
+				<FirstName>Michael</FirstName>
+				<LastName>Myers</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>9999000006</ID>
+				<FirstName>Freddy</FirstName>
+				<LastName>Kruger</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+	</TournamentPlayers>
+	<Matches />
+</Tournament>

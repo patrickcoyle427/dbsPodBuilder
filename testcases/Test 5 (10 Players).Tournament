@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tournament>
+	<Name>Test 5</Name>
+	<ID>X99-725557</ID>
+	<TournamentStyleCode>01</TournamentStyleCode>
+	<StructureCode>01</StructureCode>
+	<EventTypeCode>01</EventTypeCode>
+	<PlayerStructure>01</PlayerStructure>
+	<ReferenceDateTime>2003-01-02</ReferenceDateTime>
+	<Date>2018-02-27</Date>
+	<Time>19:05</Time>
+	<CurrentRound>0</CurrentRound>
+	<TableOffset>0</TableOffset>
+	<PlayoffRound>0</PlayoffRound>
+	<SoftwareVersion>3.0.0.0</SoftwareVersion>
+	<Finalized>False</Finalized>
+	<Staff>
+		<XmlStaffArray />
+	</Staff>
+	<PenaltyList />
+	<Location>
+		<Id>1f08036e-c77c-42a8-b6b5-362814e6bb5c</Id>
+		<Name>Alternate Universes Blue Bell</Name>
+		<Address1 />
+		<Address2 />
+		<City />
+		<State />
+		<Country />
+		<Zip />
+		<Phone />
+		<WebSite />
+	</Location>
+	<TournamentPlayers>
+		<TournPlayer>
+			<Player>
+				<ID>0100041568</ID>
+				<FirstName>Pat</FirstName>
+				<LastName>Coyle</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0101292293</ID>
+				<FirstName>Steve</FirstName>
+				<LastName>Legosi</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0101407427</ID>
+				<FirstName>Kathy</FirstName>
+				<LastName>Johnson</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0101555504</ID>
+				<FirstName>H.B.</FirstName>
+				<LastName>Vorhees</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0102140151</ID>
+				<FirstName>Tyler</FirstName>
+				<LastName>Aaron</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0103314926</ID>
+				<FirstName>Pat</FirstName>
+				<LastName>Kruger</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0400045638</ID>
+				<FirstName>Pat</FirstName>
+				<LastName>Dipp</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0400247217</ID>
+				<FirstName>R.J.</FirstName>
+				<LastName>Legosi</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0400406423</ID>
+				<FirstName>Eddy</FirstName>
+				<LastName>Vorhees</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+		<TournPlayer>
+			<Player>
+				<ID>0401446180</ID>
+				<FirstName>Bella</FirstName>
+				<LastName>Fellman</LastName>
+				<TeamPosition>0</TeamPosition>
+			</Player>
+			<DropRound>0</DropRound>
+			<Rank>1</Rank>
+			<PlayoffPoints>0</PlayoffPoints>
+			<Wins>0</Wins>
+			<Points>0</Points>
+			<OpenDueling>0</OpenDueling>
+			<DropReason>Active</DropReason>
+			<AssignedSeat>-1</AssignedSeat>
+			<Notes />
+		</TournPlayer>
+	</TournamentPlayers>
+	<Matches />
+</Tournament>
